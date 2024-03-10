@@ -50,7 +50,7 @@ const BouncingImage = ({ pic }) => {
       ref={imageRef}       
       style={{ ...springProps, fontStyle: 'italic',
        fontWeight: 600,
-       fontSize: '50px'}}
+       fontSize: '280%'}}
     >
     {pic}
     </animated.div>

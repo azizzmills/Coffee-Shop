@@ -7,6 +7,7 @@
   .italic-text {
     background: brown;
     font-style: italic;
+    font-size: x-large;
     display: flex;
     justify-content: center;
     align-items: center;

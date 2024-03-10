@@ -57,7 +57,7 @@ const ScrollImage = ({ pic }) => {
     <Container className='d-flex justify-content-center align-items-center'>      
       <animated.div ref={imageRef} style={{...imageAnimation, fontStyle: 'italic',
         fontWeight: 600,
-        fontSize: '50px'}} >
+        fontSize: '280%'}} >
         {pic}
       </animated.div>
     </Container>

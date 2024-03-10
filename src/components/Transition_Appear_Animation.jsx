@@ -44,7 +44,7 @@ const ScrollAnimation = (props) => {
     <div className="scroll-animation-container" ref={targetRef}>
       <animated.div style={{...animationProps, fontStyle: 'italic',
         fontWeight: 600,
-        fontSize: '50px'}} className="scroll-animation-image">
+        fontSize: '280%'}} className="scroll-animation-image">
         {props.children}
       </animated.div>
     </div>

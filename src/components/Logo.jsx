@@ -5,7 +5,7 @@ import './Logo.css'
 
 const Logo_Postion = () => {
   return (
-    <Container style={{ maxWidth: '400px' }} className='location'>
+    <Container style={{ maxWidth: '30%' }} className='location'>
       <Row>
         <Col md={6} className="italic-text">
           <h1>Mills' Coffee N Chill</h1>
