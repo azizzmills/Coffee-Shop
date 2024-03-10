@@ -1,0 +1,9 @@
+.custom-navbar {
+    background-color: brown;    
+    font-style: italic;
+    font-weight: 600;
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0; 
+  }
+  

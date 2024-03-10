@@ -1,0 +1,92 @@
+.full-screen-container {
+    height: 100vh; /* Take up full viewport height */
+    
+  }
+
+  .logo{
+    height: 30px;
+    width: 30px;
+  }
+
+  .branding {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 20%;
+    left: 40%;
+  }
+  
+
+#landing_img{
+    background: url('../images/coffee.jpg');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* make the postion of the parent element relative so that the child element can be positioned 
+    anywhere to your liking inside of the parent. Also make the child element have a postion of 
+    absolute. */
+    position: relative;
+}
+
+#landing_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    color: black;
+
+    position: absolute; /* the make this absolute to fit the description above*/
+    
+    top: 80%;
+    left: 5%;
+    background-color: brown;
+    /*box-shadow: inset 0 0 10px rgba(2, 85, 139, 0.5);
+    box-shadow: 2px 1.5px 0.5px black;*/
+    height: 50px;  
+    width: 150px;  
+}
+
+.menu{
+    font-size: larger;
+    font-weight: 600;
+    color: brown;
+    background: url('../images/coffee\ background\ 2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*height: 400px;
+    width: 800px;  
+    box-shadow: 1px 1px 9px black;    
+    border-radius: 30px;*/ 
+}
+
+.Coffee_pic{
+    height: 400px;
+    width: 400px;
+}
+
+.Ingredients{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+}
+
+.background{
+  background-color: brown;
+}
+
+.phrase{
+  font-size: 50%;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.arrow_button{
+  border-radius: 50px;
+  position: fixed;
+  top: 65%;
+  left: 90%;
+  z-index: 9999;
+  height: 70px;
+  width: 70px;
+}

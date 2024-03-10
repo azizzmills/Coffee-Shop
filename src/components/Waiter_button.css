@@ -1,0 +1,13 @@
+#Waiter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    color: black; 
+    font-weight: 500;
+    border: none;
+    background: rgb(141, 117, 117);
+    box-shadow: 0.5px 0px 1px 2px rgb(2, 85, 139, 0.5);   
+    height: 50px;  
+    width: 300px;
+}
