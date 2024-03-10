@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/coffee-Shop/static/css/main.c288d197.css",
-    "main.js": "/coffee-Shop/static/js/main.c423314c.js",
-    "static/js/787.e939702f.chunk.js": "/coffee-Shop/static/js/787.e939702f.chunk.js",
-    "static/media/long black.jpg": "/coffee-Shop/static/media/long black.de9a032978db1bde675f.jpg",
-    "static/media/Mocha_Hazelnut_Latte.jpg": "/coffee-Shop/static/media/Mocha_Hazelnut_Latte.852a796eb0056f1488cb.jpg",
-    "static/media/double-espresso-shots.jpg": "/coffee-Shop/static/media/double-espresso-shots.da64e483c5802ed4ce00.jpg",
-    "static/media/logo - Copy.jpg": "/coffee-Shop/static/media/logo - Copy.1e22b6c6c5aaac77c704.jpg",
-    "static/media/italian hot chocolate.jpg": "/coffee-Shop/static/media/italian hot chocolate.b78a1f4ca1dd31ae5e63.jpg",
-    "static/media/Chai-Latte.jpg": "/coffee-Shop/static/media/Chai-Latte.8ddd815b01ea023160a8.jpg",
-    "static/media/Americano.jpeg": "/coffee-Shop/static/media/Americano.2521896ad1973ee3520d.jpeg",
-    "static/media/coffee.jpg": "/coffee-Shop/static/media/coffee.2ab3c23b9cae478fbca9.jpg",
-    "static/media/tumeric.jpg": "/coffee-Shop/static/media/tumeric.72dd06a6e9be2bf10e48.jpg",
-    "static/media/coffee background 2.jpg": "/coffee-Shop/static/media/coffee background 2.07dfd74fb02b4de14158.jpg",
-    "static/media/Capuccino.jpg.jpeg": "/coffee-Shop/static/media/Capuccino.jpg.313c38d500a3dde5f701.jpeg",
-    "static/media/Caramel-Macchiato.jpg": "/coffee-Shop/static/media/Caramel-Macchiato.54016634e5cff8e66bae.jpg",
-    "index.html": "/coffee-Shop/index.html",
-    "main.c288d197.css.map": "/coffee-Shop/static/css/main.c288d197.css.map",
-    "main.c423314c.js.map": "/coffee-Shop/static/js/main.c423314c.js.map",
-    "787.e939702f.chunk.js.map": "/coffee-Shop/static/js/787.e939702f.chunk.js.map"
+    "main.css": "/Coffee-Shop/static/css/main.e53a5341.css",
+    "main.js": "/Coffee-Shop/static/js/main.d2f587b5.js",
+    "static/js/787.e939702f.chunk.js": "/Coffee-Shop/static/js/787.e939702f.chunk.js",
+    "static/media/long black.jpg": "/Coffee-Shop/static/media/long black.de9a032978db1bde675f.jpg",
+    "static/media/Mocha_Hazelnut_Latte.jpg": "/Coffee-Shop/static/media/Mocha_Hazelnut_Latte.852a796eb0056f1488cb.jpg",
+    "static/media/double-espresso-shots.jpg": "/Coffee-Shop/static/media/double-espresso-shots.da64e483c5802ed4ce00.jpg",
+    "static/media/logo - Copy.jpg": "/Coffee-Shop/static/media/logo - Copy.1e22b6c6c5aaac77c704.jpg",
+    "static/media/italian hot chocolate.jpg": "/Coffee-Shop/static/media/italian hot chocolate.b78a1f4ca1dd31ae5e63.jpg",
+    "static/media/Chai-Latte.jpg": "/Coffee-Shop/static/media/Chai-Latte.8ddd815b01ea023160a8.jpg",
+    "static/media/Americano.jpeg": "/Coffee-Shop/static/media/Americano.2521896ad1973ee3520d.jpeg",
+    "static/media/coffee.jpg": "/Coffee-Shop/static/media/coffee.2ab3c23b9cae478fbca9.jpg",
+    "static/media/tumeric.jpg": "/Coffee-Shop/static/media/tumeric.72dd06a6e9be2bf10e48.jpg",
+    "static/media/coffee background 2.jpg": "/Coffee-Shop/static/media/coffee background 2.07dfd74fb02b4de14158.jpg",
+    "static/media/Capuccino.jpg.jpeg": "/Coffee-Shop/static/media/Capuccino.jpg.313c38d500a3dde5f701.jpeg",
+    "static/media/Caramel-Macchiato.jpg": "/Coffee-Shop/static/media/Caramel-Macchiato.54016634e5cff8e66bae.jpg",
+    "index.html": "/Coffee-Shop/index.html",
+    "main.e53a5341.css.map": "/Coffee-Shop/static/css/main.e53a5341.css.map",
+    "main.d2f587b5.js.map": "/Coffee-Shop/static/js/main.d2f587b5.js.map",
+    "787.e939702f.chunk.js.map": "/Coffee-Shop/static/js/787.e939702f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c288d197.css",
-    "static/js/main.c423314c.js"
+    "static/css/main.e53a5341.css",
+    "static/js/main.d2f587b5.js"
   ]
 }
