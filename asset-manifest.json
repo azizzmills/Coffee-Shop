@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Coffee-Shop/static/css/main.e53a5341.css",
-    "main.js": "/Coffee-Shop/static/js/main.d2f587b5.js",
+    "main.css": "/Coffee-Shop/static/css/main.b9d0b1f2.css",
+    "main.js": "/Coffee-Shop/static/js/main.0efc353d.js",
     "static/js/787.e939702f.chunk.js": "/Coffee-Shop/static/js/787.e939702f.chunk.js",
     "static/media/long black.jpg": "/Coffee-Shop/static/media/long black.de9a032978db1bde675f.jpg",
     "static/media/Mocha_Hazelnut_Latte.jpg": "/Coffee-Shop/static/media/Mocha_Hazelnut_Latte.852a796eb0056f1488cb.jpg",
@@ -16,12 +16,12 @@
     "static/media/Capuccino.jpg.jpeg": "/Coffee-Shop/static/media/Capuccino.jpg.313c38d500a3dde5f701.jpeg",
     "static/media/Caramel-Macchiato.jpg": "/Coffee-Shop/static/media/Caramel-Macchiato.54016634e5cff8e66bae.jpg",
     "index.html": "/Coffee-Shop/index.html",
-    "main.e53a5341.css.map": "/Coffee-Shop/static/css/main.e53a5341.css.map",
-    "main.d2f587b5.js.map": "/Coffee-Shop/static/js/main.d2f587b5.js.map",
+    "main.b9d0b1f2.css.map": "/Coffee-Shop/static/css/main.b9d0b1f2.css.map",
+    "main.0efc353d.js.map": "/Coffee-Shop/static/js/main.0efc353d.js.map",
     "787.e939702f.chunk.js.map": "/Coffee-Shop/static/js/787.e939702f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e53a5341.css",
-    "static/js/main.d2f587b5.js"
+    "static/css/main.b9d0b1f2.css",
+    "static/js/main.0efc353d.js"
   ]
 }
